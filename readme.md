@@ -1,6 +1,8 @@
-A simple ToDo list app made on PHP and mysql
+# To Do List
 
-Features:
+Simple To Do list app made on PHP and mysql as database
+
+## Features
 
 can add items along with date stamp,
 can delete items
